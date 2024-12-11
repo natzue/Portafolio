@@ -25,7 +25,7 @@ Cliente: Public Policy Projects (a través de UINXEL PRESS SERVICES) Fechas: 1-6
 
 Descripción: Demostré mi capacidad de adaptación al realizar una traducción express de un informe de 70 páginas sobre las necesidades globales de la mujer. A pesar del corto plazo, logré entregar un trabajo de alta calidad, adaptándome rápidamente a la terminología especializada y a las necesidades del cliente.
 
-Link: 
+Link: https://github.com/natzue/Portafolio/blob/b846b167bcd5ea30570cb2b917864bf74421b9f9/A-Womens-Health-Agenda-Sample-ESP.pdf
 
 CONTACTO
 
